@@ -37,15 +37,17 @@ The dataset was largely clean and well-structured, but there were a few inconsis
 - **Bi-Weekly to Monthly Purchase Patterns:** Many customers purchase in cycles of 14–30 days. This indicates an opportunity to schedule tailored marketing campaigns and inventory decisions around predictable wholesaler behaviour.
 - **Inactive Customer Reactivation Potential:** A segment of 622 customers with low recency and frequency scores was identified. These customers need to be reengaged before they churn.
 - **Top Customer Revenue Dependence:** The top 10 customers contribute over $1.6M in revenue, with one customer alone spending $279K. The company needs to diversify its customer base to reduce risks.
-- 
-**3. Operational Inefficiencies**
-- **Significant Order Cancellations:** A 13.53% overall cancellation rate signals operational inefficiencies, with some individual customers canceling over 40% of orders—highlighting the need for tighter policies and fraud mitigation.
-- **Regional Cancellation Disparities:** Countries like Italy and Switzerland show high cancellation rates despite strong revenue contributions, indicating regional logistical or product-market fit issues requiring optimization.
-- **Severe Quality Concerns in Travel Category:** Travel accessories, particularly Travel Card Wallets, show return rates exceeding 80–94%. This poses a major risk in bulk sales, where poor product quality can amplify losses and damage wholesale client trust.
 
-**5. Growth Opportunities**
-- **Party-Themed Product Dominance:** The top 3 revenue-generating products are all party-themed, suggesting a strong product-market fit that should be leveraged through increased inventory and promotional focus.
-- **Untapped International Premium Segment:** While international orders make up only 9.31% of volume, they represent significantly higher spend per customer—indicating potential for expansion through tailored international strategies.
+**3. Operational Inefficiencies**
+- **Significant Order Cancellations:** There is a 13.53% overall order cancellation rate, which signals operational inefficiencies. Some individual customers are cancelling over 40% of orders; to reduce reverse logistics costs, ShopSmart UK needs to implement tighter return policies.
+- **Regional Cancellation Disparities:** Countries like Italy and Switzerland show high cancellation rates despite strong revenue contributions.
+- **Severe Quality Concerns in Travel Category:** Travel accessories, particularly Travel Card Wallets, show return rates between 80–94%. This is a major risk in bulk sales, where poor product quality can damage wholesale client trust.
+
+**4. Growth Opportunities**
+- **Party-Themed Product Dominance:** The top 3 revenue-generating products are all party-themed, suggesting a strong product-market fit. These products should be focused on for promotions.
+- **Untapped International Premium Segment:** International orders make up only 9.31% of volume. This market should be further explored to expand ShopSmart UK's global customer base.
+
+---
 
 
 
